@@ -1,3 +1,4 @@
+# Importing dynamically icons from Material UI research
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -5,13 +6,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
 pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -20,9 +15,8 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Importing dynamically icons from Material UI research
-
-Important comment from maintainer of Next.js timneutkens: https://github.com/vercel/next.js/issues/7676#issuecomment-506323003
+## Notes
+- Comment from maintainer of Next.js timneutkens: https://github.com/vercel/next.js/issues/7676#issuecomment-506323003
 
 ## References
 - https://medium.com/@yashashr/next-js-optimization-for-better-performance-part-1-material-ui-mui-configs-plugins-6fdc48a4e984
