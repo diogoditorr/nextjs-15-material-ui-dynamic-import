@@ -17,6 +17,20 @@ export default function Home() {
         >
           IconResolver lazy loading
         </Link>
+
+        <Link
+          href="./import-dynamic-with-webpack"
+          className="border border-slate-950 rounded p-2 hover:underline"
+        >
+          IconResolver import dynamic with webpack
+        </Link>
+
+        <Link
+          href="./import-server-side-and-pass-to-client"
+          className="border border-slate-950 rounded p-2 hover:underline"
+        >
+          Import icon server side and pass to client
+        </Link>
       </main>
     </div>
   );
