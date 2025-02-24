@@ -31,6 +31,13 @@ export default function Home() {
         >
           Import icon server side and pass to client
         </Link>
+
+        <Link
+          href="./material-ui-font-icons"
+          className="border border-slate-950 rounded p-2 hover:underline"
+        >
+          Material UI (Font icons)
+        </Link>
       </main>
     </div>
   );
