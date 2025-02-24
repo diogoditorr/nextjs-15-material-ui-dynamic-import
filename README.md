@@ -28,3 +28,4 @@ Important comment from maintainer of Next.js timneutkens: https://github.com/ver
 - https://medium.com/@yashashr/next-js-optimization-for-better-performance-part-1-material-ui-mui-configs-plugins-6fdc48a4e984
 - https://stackoverflow.com/questions/56369444/how-can-i-dynamically-load-an-icon-using-its-snake-case-name-react-material-ui
 - https://stackoverflow.com/questions/75060437/is-there-a-way-to-dynamic-lazy-import-material-ui-icons-without-importing-all-th
+- https://react-svgr.com/docs/webpack/
